@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinud03
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJs, ReactJs, Java, Spring Boot etc.
-- Ask me about HTML,JavaScript, Angular, TypeScrip.
+- 🌱 I’m currently learning NodeJs, ReactJs, Java, Spring Boot etc
+- Ask me about HTML,JavaScript, Angular, TypeScript
 - 📫 How to reach me just mail me on vinayakdagade0309@gmail.com
 
 <!---
