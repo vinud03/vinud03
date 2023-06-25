@@ -1,7 +1,7 @@
 <div style="text-align: center;"> 
-# 👋 Hi, I’m Vinayak
+  👋 Hi, I’m Vinayak
   <div style="border-bottom: 1px solid;"></div>
-## Software Engineer | Web Developer  
+Software Engineer | Web Developer  
 </div>
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning NodeJs, ReactJs, Java, Spring Boot etc.
