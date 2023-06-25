@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @vinud03
+<div style="text-align: center;"> 
+# 👋 Hi, I’m Vinayak
+  <div style="border-bottom: 1px solid;"></div>
+## Software Engineer | Web Developer  
+</div>
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular, Java, Spring Boot etc.
+- 🌱 I’m currently learning NodeJs, ReactJs, Java, Spring Boot etc.
+- Ask me about HTML,JavaScript, Angular, TypeScrip.
 - 📫 How to reach me just mail me on vinayakdagade0309@gmail.com
 
 <!---
